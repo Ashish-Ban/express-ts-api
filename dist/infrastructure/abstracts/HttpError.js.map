@@ -1,0 +1,1 @@
+{"version":3,"file":"HttpError.js","sourceRoot":"","sources":["../../../src/infrastructure/abstracts/HttpError.ts"],"names":[],"mappings":";;AAAA,MAA8B,SAAU,SAAQ,KAAK;IACjD,IAAI,CAAU;IACd,IAAI,CAAU;IACd,OAAO,CAAU;IACjB,YAAY,OAAe;QACvB,KAAK,CAAC,OAAO,CAAC,CAAA;QACd,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;IAC3B,CAAC;CACJ;AARD,4BAQC"}

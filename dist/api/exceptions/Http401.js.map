@@ -1,0 +1,1 @@
+{"version":3,"file":"Http401.js","sourceRoot":"","sources":["../../../src/api/exceptions/Http401.ts"],"names":[],"mappings":";;;;;AAAA,yFAAiE;AAEjE,MAAqB,OAAQ,SAAQ,mBAAS;IAC1C,IAAI,GAAW,cAAc,CAAC;IAC9B,IAAI,GAAW,GAAG,CAAC;IACnB,YAAY,OAAe;QACvB,KAAK,CAAC,OAAO,CAAC,CAAC;QACf,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;IAC3B,CAAC;CACJ;AAPD,0BAOC"}
